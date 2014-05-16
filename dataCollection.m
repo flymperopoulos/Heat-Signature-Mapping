@@ -1,4 +1,3 @@
-%Matlab code that collects and stores data in a matrix of respective dimensions. It interacts with the Arduino code tempCode.c
 
 clear;
 clc;
